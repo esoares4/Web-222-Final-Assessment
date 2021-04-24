@@ -1,0 +1,22 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ p {   
+    margin: 1px;
+ }
+
+ label {
+     margin: 1px;
+ }
+
+ button {
+     margin-top: 12px;
+ }
+ 
+ input {
+     width: 500px;
+ }
+
+ #notes {
+    height: 75px;
+ }
